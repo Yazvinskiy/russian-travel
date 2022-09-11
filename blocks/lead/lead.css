@@ -1,6 +1,6 @@
 .lead {
-    padding: 0 100px;
+    padding-top: 56px;
+    max-width: 984px;
     box-sizing: border-box;
     margin: 0 auto;
-    margin-bottom: 92px;
 }

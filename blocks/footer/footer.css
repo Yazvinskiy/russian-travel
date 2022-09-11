@@ -1,5 +1,9 @@
 .footer {
+    max-width: 1184px;
+    box-sizing: border-box;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
     margin-bottom: 24px;
+    padding-top: 92px;
 }

@@ -5,4 +5,8 @@
     grid-gap: 16px;
     margin-bottom: 92px;
     overflow: hidden;
+    max-width: 1184px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding-top: 92px;
 }
