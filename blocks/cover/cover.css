@@ -1,4 +1,6 @@
 .cover{
+    display: flex;
+    align-items: center;
     background-image: url(../.././/images/cover-trains.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -7,7 +9,7 @@
     position: relative;
     max-width: 1184px;
     margin: 0 auto;
-    
+    margin-top: 108px;
 }
 
 .cover:hover .cover__overlay{
