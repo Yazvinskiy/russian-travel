@@ -3,9 +3,16 @@
     list-style-type: none;
     padding: 0;
     margin: 0;
-    
+
 }
 
 .footer__list:last-child {
     margin-right: 0;
+   
+}
+
+@media screen and (max-width: 767px) {
+    .footer__list {
+        flex-direction: column;
     }
+}
