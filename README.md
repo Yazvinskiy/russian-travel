@@ -15,9 +15,9 @@
 * CSS3:
   - Flexbox;
   - Grid Layout;
-> Positioning;
-> Adaptive UI;
-> Media Queries;
+  - Positioning;
+  - Adaptive UI;
+  - Media Queries;
 * Методология БЭМ;
 * Фйловая структура Nested БЭМ;
 * Вёрстка по макету в Figma.
