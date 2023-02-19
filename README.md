@@ -13,8 +13,8 @@
 ## Стек технологий:
 * HTML5;
 * CSS3:
-> Flexbox;
-> Grid Layout;
+  - Flexbox;
+  - Grid Layout;
 > Positioning;
 > Adaptive UI;
 > Media Queries;
