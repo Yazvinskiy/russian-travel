@@ -1,7 +1,15 @@
 # "Путешествие по России"
 
 * [Ссылка на проект "Путешествие по России"](https://yazvinskiy.github.io/russian-travel/index.html)
-![yazvinskiy github io_russian-travel_index html](https://user-images.githubusercontent.com/110602440/222747898-491b55a1-3c30-48ac-be27-36f943ffa34e.png)
+* <details>
+<summary>Заголовок спойлера</summary>
+ 
+[![Скриншот проекта][1]][1]
+ 
+[1]: ![yazvinskiy github io_russian-travel_index html](https://user-images.githubusercontent.com/110602440/222747898-491b55a1-3c30-48ac-be27-36f943ffa34e.png)
+ 
+</details>
+
 
 
 ## Описание проекта
